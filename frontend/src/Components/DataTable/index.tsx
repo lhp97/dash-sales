@@ -77,6 +77,38 @@ const DataTable = () => {
             <td>25</td>
             <td>R$ 2500.00</td>
           </tr>
+          <tr>
+            <td>2</td>
+            <td>14/09/2022</td>
+            <td>Catatau</td>
+            <td>40</td>
+            <td>25</td>
+            <td>R$ 2500.00</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>14/09/2022</td>
+            <td>Catatau</td>
+            <td>40</td>
+            <td>25</td>
+            <td>R$ 2500.00</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>14/09/2022</td>
+            <td>Catatau</td>
+            <td>40</td>
+            <td>25</td>
+            <td>R$ 2500.00</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>14/09/2022</td>
+            <td>Catatau</td>
+            <td>40</td>
+            <td>25</td>
+            <td>R$ 2500.00</td>
+          </tr>
         </tbody>
       </table>
     </div>
